@@ -1,0 +1,54 @@
+[
+  {
+    "titulo": "Scarface",
+    "director": "Brian De Palma",
+    "genero": "Accion"
+  },
+  {
+    "titulo": "Hooligans: 1",
+    "director": "Lexi Alexander",
+    "genero": "Accion"
+  },
+  {
+    "titulo": "Inception",
+    "director": "Christopher Nolan",
+    "genero": "Ciencia Ficcion"
+  },
+  {
+    "titulo": "Batman Begins",
+    "director": "Christopher Nolan",
+    "genero": "accion"
+  },
+  {
+    "titulo": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "genero": "Drama"
+  },
+  {
+    "titulo": "Batman: El caballero de la noche",
+    "director": "Christopher Nolan",
+    "genero": "accion"
+  },
+  {
+    "titulo": "Batman: El caballero de la noche asciende",
+    "director": "Christopher Nolan",
+    "genero": "accion"
+  },
+  {
+    "titulo": "Titanic",
+    "director": "James Cameron",
+    "genero": "Romance"
+  },
+  {
+    "titulo": "El gato con botas: el ultimo deseo",
+    "director": "Joel Crawford",
+    "genero": "aventura"
+  },
+  { "titulo": "Sherk: 2", "director": "Andrew Adamson", "genero": "aventura" },
+  { "titulo": "Paul", "director": "Greg Mottola", "genero": "humor" },
+  {
+    "titulo": "Spider-Man: sin camino a casa",
+    "director": "Jhon Watts",
+    "genero": "aventura"
+  }
+]
